@@ -14,7 +14,7 @@ export default function Portfolio() {
         "seaborn",
         "joblib",
       ],
-      github: "https://github.com/arnubxx",
+      github: "https://github.com/arnubxx/Mental_Health_Prediction-main",
       liveDemo:
         "https://mentalhealthprediction-main-hnfutgc7h8d3j85krpbmnq.streamlit.app",
     },
@@ -24,7 +24,6 @@ export default function Portfolio() {
       description:
         "Lightweight CNN architecture for BI-RADS mammography classification and mobile deployment.",
       tech: ["TensorFlow", "Keras"],
-      github: "https://github.com/arnubxx",
     },
     {
       title: "PetCare",
@@ -32,7 +31,7 @@ export default function Portfolio() {
       description:
         "Servlet-based booking system with MySQL persistence and backend logic for scalable user interactions.",
       tech: ["Java", "Servlets", "JDBC", "MySQL", "Docker"],
-      github: "https://github.com/arnubxx",
+      github: "https://github.com/arnubxx/PETCARE",
       liveDemo: "https://petcare-x8bk.onrender.com",
     },
     {
@@ -41,7 +40,7 @@ export default function Portfolio() {
       description:
         "Built a full-stack system for course management and assessments with database-driven educational workflows.",
       tech: ["Laravel", "PHP", "Tailwind CSS", "MySQL"],
-      github: "https://github.com/arnubxx",
+      github: "https://github.com/arnubxx/Insight_EDU",
       liveDemo: "https://insight-edu.onrender.com",
     },
     {
@@ -50,7 +49,7 @@ export default function Portfolio() {
       description:
         "Built an AI-based recommender using NLP and similarity-based ranking for scalable real-time recommendations.",
       tech: ["Java", "Spring Boot", "NLP", "REST API"],
-      github: "https://github.com/arnubxx",
+      github: "https://github.com/arnubxx/Course_Finder",
       liveDemo: "https://course-finder-y1xj.onrender.com",
     },
     {
@@ -59,7 +58,7 @@ export default function Portfolio() {
       description:
         "Java-based desktop system with MySQL integration to automate order processing, billing, and management tasks.",
       tech: ["Java", "Swing", "JDBC", "MySQL"],
-      github: "https://github.com/arnubxx",
+      github: "https://github.com/arnubxx/RES_Management",
     },
   ];
 
