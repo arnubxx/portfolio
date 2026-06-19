@@ -286,7 +286,7 @@ export default function Portfolio() {
           <p className="mb-2"><span className="text-blue-400">Email:</span> arnubdatta17@gmail.com</p>
           <p className="mb-2"><span className="text-blue-400">GitHub:</span> <a href="https://github.com/arnubxx" target="_blank" rel="noopener noreferrer" className="hover:underline">github.com/arnubxx</a></p>
           <p className="mb-2"><span className="text-blue-400">LeetCode:</span> <a href="https://leetcode.com/u/Arnubrs/" target="_blank" rel="noopener noreferrer" className="hover:underline">leetcode.com/u/Arnubrs</a></p>
-          <p><span className="text-blue-400">LinkedIn:</span> <a href="https://linkedin.com/in/arnubdatta" target="_blank" rel="noopener noreferrer" className="hover:underline">linkedin.com/in/arnubdatta</a></p>
+          <p><span className="text-blue-400">LinkedIn:</span> <a href="https://www.linkedin.com/in/arnub-datta-64645626a/" target="_blank" rel="noopener noreferrer" className="hover:underline">linkedin.com/in/arnub-datta-64645626a</a></p>
         </div>
       </section>
     </main>
