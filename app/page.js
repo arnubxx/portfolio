@@ -225,14 +225,16 @@ export default function Portfolio() {
               </div>
 
               <div className="mt-auto flex flex-wrap gap-3">
-                <a
-                  href={project.github}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold hover:bg-blue-700 transition"
-                >
-                  GitHub
-                </a>
+                {project.github ? (
+                  <a
+                    href={project.github}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold hover:bg-blue-700 transition"
+                  >
+                    GitHub
+                  </a>
+                ) : null}
 
                 {project.liveDemo ? (
                   <a
